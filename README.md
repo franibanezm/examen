@@ -4,7 +4,7 @@
 Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos del Sur de Chile que muestran sus profundidades batimétricas.
 
 **¿Para quiénes?**
-![Protopersonas](readme/protopersonas.jpg)
+![Protopersonas](readme/protopersonas2.jpg)
 
 **¿Qué existe que es similar a la propuesta?**
 
