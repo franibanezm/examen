@@ -4,7 +4,7 @@
 Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos del Sur de Chile que muestran sus profundidades batimétricas.
 
 **¿Para quiénes?**
-![Protopersonas](path/to/readme/protopersonas.jpg)
+![Protopersonas](readme/protopersonas.jpg)
 
 **¿Qué existe que es similar a la propuesta?**
 
@@ -21,4 +21,4 @@ https://mappin.cl/ Emprendimiento de láminas de diferentes mapas. Tienen del mu
 https://eco-wood-art.com/en/ Venden puzzles mecánicos y juguetes de madera hechos con corte laser. Su página es minimalista. El enfoque está en sus productos.
 
 **¿Qué existe que puede inspirar la propuesta?**
-![Moodboard](path/to/readme/moodboard.jpg)
+![Moodboard](readme/moodboard.jpg)
