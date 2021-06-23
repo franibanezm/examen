@@ -97,12 +97,15 @@ La portada tiene demasiadas imagenes e información, se ve un poco saturado.
 ![Moodboard](readme/moodboard.jpg)
 
 En la imagen de la cocina se destaca el aspecto rústico y a la vez ordenado y limpio del ambiente.
-De la marca de cervezas Austral con su línea patagonia destaco la identidad gráfica y cómo utilizan las imagenes de la patagonia a su favor.
-De las imagenes de la naturaleza me llama la atención como logran plasmar la escencia sureña, casi se siente el olor a sur con verlas.
-Puse también esa chimenea pues refleja la calidez que quiero para mi proyecto.
-Además incluí diferentes texturas y patrones relacionadas con lo rústico, artesanal y hecho a mano, que es parte de mi propuesta de valor.
-Las flores secas de la esquina las puse porque me llama la atención lo simple y elegante que una decoración natural se puede llegar a ver.
-Finalmente puse la paleta de colores que se desprende de esta recolección de elementos gráficos.
 
-![Moodboard](readme/moodboard.jpg)
-![Moodboard](readme/moodboard.jpg)
+De la marca de cervezas Austral con su línea patagonia destaco la identidad gráfica y cómo utilizan las imagenes de la patagonia a su favor.
+
+De las imágenes de la naturaleza me llama la atención como logran plasmar la escencia sureña, casi se siente el olor a sur con verlas.
+
+Puse también esa chimenea pues refleja la calidez que quiero para mi proyecto.
+
+Además incluí diferentes texturas y patrones relacionadas con lo rústico, artesanal y hecho a mano, que es parte de mi propuesta de valor.
+
+Las flores secas de la esquina las puse porque me llama la atención lo simple y elegante que una decoración natural se puede llegar a ver.
+
+Finalmente puse la paleta de colores que se desprende de esta recolección de elementos gráficos.
