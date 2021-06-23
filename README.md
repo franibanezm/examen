@@ -1,7 +1,7 @@
 # H1 Examen
 
 # H2 **¿Para qué?** 
-# H3 Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos del Sur de Chile que muestran sus profundidades batimétricas.
+# Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos del Sur de Chile que muestran sus profundidades batimétricas.
 
 # H2 **¿Para quiénes?**
 ![Protopersonas](readme/protopersonas2.jpg)
