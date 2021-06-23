@@ -1,7 +1,8 @@
 # H1 Examen
 
 # H2 **¿Para qué?** 
-# Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos del Sur de Chile que muestran sus profundidades batimétricas.
+
+Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos del Sur de Chile que muestran sus profundidades batimétricas.
 
 # H2 **¿Para quiénes?**
 ![Protopersonas](readme/protopersonas2.jpg)
@@ -10,6 +11,8 @@
 
 ![3D WoodMaps](readme/3dwood.jpg)
 https://www.3dwoodmaps.com/ 
+
+3D WOODMAPS
 
 3DWoodMaps es una tienda estadounidense que fue mi primera inspiración para comenzar con estos mapas. Tienen muchos tipos de mapas de distintos lagos, costas de Estados Unidos, además de otros productos como relojes, cuadros de estadios, montañas, entre otros. 
 
@@ -23,6 +26,9 @@ Casi todos los mapas tienen la etiqueta de "Sale", lo que hace que se pierda la 
 
 ![Pin Your Travel Map](readme/pytm.jpg)
 https://www.pytm.cl/
+
+PIN YOUR TRAVEL MAP
+
 Es una tienda chilena donde venden mapas pineables y raspables, láminas, libros y guías de viajes. 
 
 *Aspectos Positivos*
@@ -46,6 +52,9 @@ Al ser tan simple y sencilla, tiene poca identidad visual. Podría ser un catál
 ![Mapas Del Sur](readme/mappin.jpg)
 
 https://mappin.cl/ 
+
+MAPPIN
+
 Emprendimiento de láminas de diferentes mapas. Tienen del mundo, de Chile, ilustrados, pineables, entre otros. 
 
 
@@ -60,6 +69,8 @@ Tiene muchas imagenes y colores lo que hacen que se vea muy saturada.
 ![Yapo Project](readme/yapo.jpg)
 https://www.yapoproject.cl/
 
+YAPO PROJECT
+
 Ofrece servicios de contenido editorial, dirección de arte, y gestión cultural para clientes y también inicia sus propios proyectos. Su objetivo es explorar la identidad cultural y espacial.
 
 *Aspectos Positivos*
@@ -72,7 +83,15 @@ No hay categorización en sus productos o un buscador, lo que hace difícil enco
 ![Poster House](readme/posterhouse.jpg)
 https://www.posterhouse.cl/ 
 
-Venden posters de distintos tipos. Me gusta cómo logran que sus cuadros se vean elegantes. La página tiene muchas imágenes.
+POSTER HOUSE
+
+Venden posters de distintos tipos. 
+
+*Apectos Positivos*
+Me gusta cómo logran que sus cuadros se vean elegantes. Es una página ordenada, todas las imagenes siguen el mismo formato. Su página es dinámica con imagenes que tienen movimiento.
+
+*Aspectos Negativos*
+La portada tiene demasiadas imagenes e información, se ve un poco saturado.
 
 # H2 **¿Qué existe que puede inspirar la propuesta?**
 ![Moodboard](readme/moodboard.jpg)
