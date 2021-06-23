@@ -10,6 +10,7 @@ Exponer el catálogo de Cucao Mapas, cuadros de madera con mapas de los lagos de
 # H2 **¿Qué existe que es similar a la propuesta?**
 
 ![3D WoodMaps](readme/3dwood.jpg)
+
 https://www.3dwoodmaps.com/ 
 
 3D WOODMAPS
@@ -25,6 +26,7 @@ La disposición de las categorías se ve un poco saturada y es de difícil lectu
 Casi todos los mapas tienen la etiqueta de "Sale", lo que hace que se pierda la confianza en ese descuento (si todos estan en oferta siempre, el precio de oferta es el precio real).
 
 ![Pin Your Travel Map](readme/pytm.jpg)
+
 https://www.pytm.cl/
 
 PIN YOUR TRAVEL MAP
@@ -38,7 +40,9 @@ La página tiene una consistencia cromática, además está bien organizada y es
 Las imagenes de los mapas son todas diferentes y están puestas en contexto, hay unas fotos que son un zoom al mapa, otras del mapa instalado en el living, otras de niños con los mapas, etc. Esto si bien es bueno para el detalle del producto, para la disposición de todos los mapas se ve desordenado y me parece preferible poner el mapa solo sin fondo. 
 
 ![Mapas Del Sur](readme/mapasdelsur.jpg)
+
 https://mapasdelsur.com/ 
+
 Son competencia directa, venden mapas del sur de Chile de diferentes tipos, hechos a mano, cartas náuticas y láminas. 
 
 *Aspectos Positivos*
@@ -67,6 +71,7 @@ Tiene muchas imagenes y colores lo que hacen que se vea muy saturada.
 
 
 ![Yapo Project](readme/yapo.jpg)
+
 https://www.yapoproject.cl/
 
 YAPO PROJECT
@@ -81,6 +86,7 @@ Está en inglés y español, por lo que es más inclusiva.
 No hay categorización en sus productos o un buscador, lo que hace difícil encontrar lo que busco.
 
 ![Poster House](readme/posterhouse.jpg)
+
 https://www.posterhouse.cl/ 
 
 POSTER HOUSE
